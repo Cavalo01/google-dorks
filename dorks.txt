@@ -80,3 +80,4 @@ inurl:*gov intitle:"index of" "docker-compose"
 intitle:"index of" "*.pl"
 intitle:"index of" "*.phtml"
 intitle:"index of" "*.php"
+i
